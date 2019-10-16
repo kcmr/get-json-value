@@ -1,0 +1,22 @@
+{
+  "name": "get-json-value",
+  "version": "1.0.0",
+  "description": "CLI that returns a value from a path inside JSON files",
+  "main": "index.js",
+  "bin": {
+    "get-json-value": "index.js"
+  },
+  "keywords": [
+    "CLI",
+    "json"
+  ],
+  "author": "Kus Cámara <kus.camara@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kcmr/get-json-value.git"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
