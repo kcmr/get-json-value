@@ -6,6 +6,9 @@
   "bin": {
     "get-json-value": "index.js"
   },
+  "files": [
+    "index.js"
+  ],
   "keywords": [
     "CLI",
     "json"
